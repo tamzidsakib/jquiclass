@@ -1,0 +1,61 @@
+/*jquery ui*/
+
+
+
+  .toggler { 
+  	width: 500px; 
+  	height: 200px; 
+  	position: relative; 
+  }
+    #button { 
+    	padding: .5em 1em; 
+    	text-decoration: none; 
+    }
+    #effect { 
+    	width: 240px;  
+    	padding: 1em; 
+    	border: 1px solid #000; 
+    	background: #eee; 
+    	color: #333; 
+    }
+    .newClass { 
+    	text-indent: 40px; 
+    	letter-spacing: .4em; 
+    	width: 410px; 
+    	height: 120px; 
+    	padding: 30px; 
+    	margin: 10px; 
+    	font-size: 1.1em; 
+    }
+
+    
+
+    .toggler2 { width: 500px; height: 200px; position: relative; }
+    #button2 { padding: .5em 1em; text-decoration: none; }
+    #effect2 { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+    #effect2 h3 { margin: 0; padding: 0.4em; text-align: center; }
+
+
+
+    .toggler3 { width: 500px; height: 200px; position: relative; }
+  #button3 { padding: .5em 1em; text-decoration: none; }
+  #effect3 { position: relative;  width: 240px;  padding: 1em;  letter-spacing: 0; font-size: 1.2em; border: 1px solid #000; background: #eee; color: #333; }
+  .newClass3 { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 100px; padding: 30px; margin: 10px; font-size: 1.6em; }
+
+
+
+
+  .ui-progressbar {
+    position: relative;
+  }
+  .progress-label {
+    position: absolute;
+    left: 50%;
+    top: 4px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #fff;
+  }
+
+
+  #resizable { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable h3 { text-align: center; margin: 0; }
